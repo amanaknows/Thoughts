@@ -1,4 +1,5 @@
 The Jedi’s Flawed Oversight
+
 The Jedi Order often claims to uphold peace and justice, but their adherence to:
 
 Dogmatic principles can create blindness to nuance.
